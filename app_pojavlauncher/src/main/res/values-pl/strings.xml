@@ -56,16 +56,16 @@
     <string name="mcl_setting_renderer_mobileglues">MobileGlues (OpenGL ES) - (tylko 1.17+, szybki)</string>
     <string name="mcl_setting_renderer_ltw">LTW (OpenGL ES 3) - tylko 1.17+</string>
     <string name="mcl_setting_veroption_release">Oficjalne wydanie</string>
-    <string name="mcl_setting_veroption_snapshot">Wersja deweloperska</string>
-    <string name="mcl_setting_veroption_oldalpha">Dawna Alpha</string>
-    <string name="mcl_setting_veroption_oldbeta">Dawna Beta</string>
+    <string name="mcl_setting_veroption_snapshot">Snapshot</string>
+    <string name="mcl_setting_veroption_oldalpha">Stara alpha</string>
+    <string name="mcl_setting_veroption_oldbeta">Stara beta</string>
     <string name="mcl_setting_java_sandbox">Wykonanie pliku .jar w piaskownicy</string>
     <string name="mcl_setting_java_sandbox_subtitle">Kontroluj dostępność menedżera zabezpieczeń piaskownicy podczas wykonywania pliku .jar.</string>
     <string name="mcl_version_clone">Utwórz kopię</string>
     <!-- Global strings -->
     <string name="global_edit">Edytuj</string>
     <string name="global_error">Błąd</string>
-    <string name="global_load">Wczytaj</string>
+    <string name="global_load">Załaduj</string>
     <string name="global_name">Nazwa</string>
     <string name="global_remove">Usuń</string>
     <string name="global_clone">Utwórz kopię</string>
@@ -102,7 +102,7 @@
     <string name="control_mouseon">Mysz: włączona </string>
     <!-- MainActivity: Menu advanced controls -->
     <string name="control_forceclose">Wymuś zamknięcie</string>
-    <string name="control_viewout">Wyjście danych</string>
+    <string name="control_viewout">Dane wyjściowe dziennika</string>
     <string name="control_adebug">Debugowanie danych wejściowych</string>
     <string name="control_customkey">Wyślij własny kod klucza</string>
     <!-- ImportControlActivity Strings -->
@@ -116,7 +116,7 @@
     <string name="control_more3"></string>
     <string name="control_more4"></string>
 -->
-    <string name="customctrl_toggle">Aktywowane</string>
+    <string name="customctrl_toggle">Włączalne/wyłączalne</string>
     <string name="customctrl_size">Rozmiar</string>
     <string name="customctrl_mapping">Mapowanie</string>
     <string name="customctrl_orientation">Orientacja</string>
@@ -127,7 +127,7 @@
     <string name="customctrl_button_opacity">Przezroczystość przycisków</string>
     <string name="customctrl_addbutton">Dodaj przycisk</string>
     <string name="customctrl_addbutton_drawer">Dodaj panel przycisków</string>
-    <string name="customctrl_addbutton_joystick">Dodaj gałkę analogową</string>
+    <string name="customctrl_addbutton_joystick">Dodaj joystick</string>
     <string name="customctrl_addsubbutton">Dodaj przycisk podrzędny</string>
     <string name="customctrl_selectdefault">Wybierz domyślny plik json dla sterowania</string>
     <string name="customctrl_export">Eksportuj ustawienia sterowania</string>
