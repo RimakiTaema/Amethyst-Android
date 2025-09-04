@@ -400,7 +400,13 @@
     <string name="mg_renderer_title_timerQueryExt">Zakázat využití GPU v nabídce F3</string>
     <string name="mg_renderer_summary_timerQueryExt">Opraví náhodné pády při otevření F3 na některých zařízeních Mali</string>
     <string name="preference_ANGLE_only">Možnosti pouze pro ANGLE</string>
+    <string name="mg_renderer_title_angleDepthClearFixMode">Opravit ruku a držené předměty od procházení skrz bloky</string>
+    <string name="mg_renderer_summary_angleDepthClearFixMode">Ovlivňuje pouze ANGLE, může ovlivnit výkon.</string>
     <string name="preference_experimental_title">Experimentální věci</string>
+    <string name="mg_renderer_title_gl43exts">Inzerovat experimentální OpenGL 4.3 rozšíření</string>
+    <string name="mg_renderer_summary_gl43exts">Může pomoci s pády módu. Zakažte, pokud to není třeba, může samo způsobovat pády.</string>
+    <string name="mg_renderer_title_computeShaderext">Inzerovat experimentální rozšíření výpočtů stínů</string>
+    <string name="mg_renderer_summary_computeShaderext">Může pomoci s chybami shaderpacků. Zakažte, pokud to není třeba, může samo způsobovat pády.</string>
     <string name="mg_renderer_title_multidrawCompute">Použít výpočty mnohonásobnou emulace</string>
     <string name="mg_renderer_summary_multidrawCompute">Používá výpočty stínů pro mnohonásobnou emulaci</string>
     <string name="app_short_name">Amethyst</string>
@@ -421,4 +427,6 @@
     <string name="preference_touchcontroller_vibrate_length_title">Délka vibrací dotykového ovládání</string>
     <string name="preference_touchcontroller_vibrate_length_description">Nastavte délku vibrací při použití dotykového ovládání.</string>
     <string name="error_vanilla_json_corrupt">Vanilla json se zdá být poškozen. Pošlete prosím zprávu o chybě na github nebo discord.</string>
+    <string name="preference_ask_for_microphone_title">Povolit mikrofon</string>
+    <string name="preference_ask_for_microphone_description">Kliknutím znovu požádáte o dotaz na oprávnění, které je vyžadováno pro módy s hlasovým vstupem jako je Simple Voice Chat.</string>
 </resources>
