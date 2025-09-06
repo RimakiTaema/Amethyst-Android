@@ -429,5 +429,5 @@
     <string name="preference_touchcontroller_vibrate_length_description">设置使用触屏控制器时的振动时长。</string>
     <string name="error_vanilla_json_corrupt">原版 JSON 似乎已损坏。请在 GitHub 或 Discord 上提交错误报告。</string>
     <string name="preference_ask_for_microphone_title">允许麦克风</string>
-    <string name="preference_ask_for_microphone_description">点击以重新请求通知权限，这是简单语音聊天（Simple Voice Chat）等语音聊天模组所必需的。</string>
+    <string name="preference_ask_for_microphone_description">点击以重新请求通知权限，Simple Voice Chat 等语音聊天模组需要此权限。</string>
 </resources>
