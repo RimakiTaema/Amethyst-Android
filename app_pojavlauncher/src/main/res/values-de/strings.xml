@@ -419,4 +419,5 @@ Um die offizielle Download-Quelle zu verwenden, drücke \"Auf offizielle Seite u
     <string name="preference_touchcontroller_vibrate_length_title">TouchController Vibrationslänge</string>
     <string name="preference_touchcontroller_vibrate_length_description">Setze die Dauer der Vibration bei der Verwendung des TouchControllers.</string>
     <string name="error_vanilla_json_corrupt">Vanilla JSON scheint beschädigt zu sein. Bitte sende einen Fehlerbericht auf GitHub oder Discord.</string>
+    <string name="preference_ask_for_microphone_title">Mikrofon zulassen</string>
 </resources>
